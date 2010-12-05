@@ -1,0 +1,32 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+       coderemarks - LaTeX package for annotating source code.
+
+             Copyright (C) 2010 Miek Gieben
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+Using this package you can annotate your source code with extra
+explanation(s). In the source code a circle with a number is drawn.
+After the code you display the numbers and the text of the remarks.
+Two commands are provided:
+\longremark{...} use this to create your remarks.
+\showremark      use this *after* the code to display all remarks
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+                            LICENSE
+
+ This program  is free software:  you can redistribute  it and/or
+ modify it under the terms of version 3 of the GNU General Public
+ License as published by the Free Software Foundation.
+
+ This program is distributed in the  hope that it will be useful,
+ but WITHOUT ANY  WARRANTY; without even the  implied warranty of
+ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU
+ General Public License for more details.
+
+ You should have received a copy of the GNU General Public License
+ along with this program.  If not, see <http://www.gnu.org/licenses/>.
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
